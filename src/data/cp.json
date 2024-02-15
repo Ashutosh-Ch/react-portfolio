@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Codeforces",
+    "imageSrc": "projects/codeforces.png",
+    "description": "Solved 500+ problems on Codeforces with Maximum Rating of 1728 (expert). Achieved a Global rank of 326 in CodeForces Round - 860 (Div. 2).",
+    "skills": ["React", "Express", "Node", "MongoDB","Mapbox API"],
+    "demo": "https://www.example.com",
+    "source": "https://codeforces.com/profile/ashutosh_ch"
+  },
+  {
+    "title": "Codechef",
+    "imageSrc": "projects/codechef.jpg",
+    "description": "Solved 110+ problems on Codechef with Maximum Rating of 1982. Achieved a Global rank of 50 in Division 2 of CodeChef Starters 90.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.codechef.com/users/ashutosh_ch"
+  },
+  {
+    "title": "Atcoder",
+    "imageSrc": "projects/atcoder.png",
+    "description": "Solved 100+ problems on AtCoder with Maximum Rating of 1127. Achieved a Global rank of 729 in Atcoder Beginner Contest 296.",
+    "skills": ["Node", "discord.js", "OpenAI API"],
+    "demo": "https://www.example.com",
+    "source": "https://atcoder.jp/users/ashutosh_ch"
+  }
+]

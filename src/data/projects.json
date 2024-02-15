@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Travel Prism",
+    "imageSrc": "projects/project.png",
+    "description": "A web application where a user can review any visited place and view others reviews.",
+    "skills": ["React", "Express", "Node", "MongoDB","Mapbox API"],
+    "source": "https://github.com/Ashutosh-Ch/Travel_Prism"
+  },
+  {
+    "title": "Contact Management",
+    "imageSrc": "projects/project.png",
+    "description": "A management back end application for keeping the track of contact details.Used REST API for CRUD operations.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "source": "https://github.com/Ashutosh-Ch/Contact-Management-web-app"
+  },
+  {
+    "title": "chatGPT Discord bot",
+    "imageSrc": "projects/project.png",
+    "description": "Made a custom discord bot using Node.js and discord.js which integrates chatGPT with discord server",
+    "skills": ["Node", "discord.js", "OpenAI API"],
+    "source": "https://github.com/Ashutosh-Ch"
+  },
+  {
+    "title": "Keep-A-Check",
+    "imageSrc": "projects/project.png",
+    "description": "A web application which allows users to keep a track of their daily transactions and calculates the money inflow outflow.",
+    "skills": ["HTML", "CSS", "Javascript", "React"],
+    "source": "https://github.com/Ashutosh-Ch/Expense-Tracker"
+  },
+  {
+    "title": "Weather web app",
+    "imageSrc": "projects/project.png",
+    "description": "A frontend web application which uses openweathermap api to get real time weather of any city across the world.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "source": "https://github.com/Ashutosh-Ch"
+  }
+]
